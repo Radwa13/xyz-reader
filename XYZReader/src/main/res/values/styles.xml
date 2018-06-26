@@ -41,7 +41,9 @@
         <item name="android:textColor">@color/title_text</item>
     </style>
     <style name="FontTheme" >
-
         <item name="android:textColor">@color/secondary_text</item>
     </style>
+    <style name="subTitle" >
+    <item name="android:textColor">@color/subTitle</item>
+</style>
 </resources>
